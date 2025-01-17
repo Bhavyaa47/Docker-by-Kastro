@@ -6,7 +6,7 @@ DAY 05
 
 Steps to Install Docker in AWS Cloud
 ==============================
-Step 1: Launch one EC2 Instance
+Step 1: Launch one Amazon Linux 2 AMI EC2 Instance
 
 Step 2: Connect to the EC2 Instance using MobaXTerm 
 
